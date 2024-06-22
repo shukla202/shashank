@@ -16,7 +16,7 @@ body {
   padding: 0;
    height: 100vh;
   background: var(--light-brown);
-  background-image: url("../assets/yellow-background.jpg");
+  background-image: url("../assets/baloon.jpg");
 }
 .swiper-container {
   width: 100%;
